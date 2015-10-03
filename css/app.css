@@ -1,4 +1,6 @@
-@import "normalize.css";
+
+/* css/app.css */
+@import "../node_modules/normalize.css/normalize.css";
 
 body, html {
   width: 100%;
